@@ -17,7 +17,7 @@ html{
     font-family: 'Barlow Condensed',helvetica, arial, sans-serif;
 }
 html, body{
-    background-color: salmon;
+    background-color: #24935F;
 }
 h1{
     font-size: 6.854rem;
@@ -42,13 +42,13 @@ p{
     max-width: 1400px; 
     width: 80%;
     margin: 0 auto;
-    background-color: chartreuse;
-    color: rebeccapurple;
+    background-color: #AC21CA;
+    color: #86CAAB;
 }
 header{
-    border-bottom: 0.8rem solid khaki;
-    background-color: cornflowerblue;
-    color: aliceblue;
+    border-bottom: 0.8rem solid #2F254B;
+    background-color: #4F3E7E;
+    color: #7F64CA;
 }
 .menu-h{
     width: 100%;
